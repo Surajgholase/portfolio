@@ -33,7 +33,7 @@ const projects = [
     title: "Blood Center Management",
     description:
       "A management system for blood centers, designed to streamline operations (assumed functionality due to lack of README details).",
-    image: "/blood-center-management-interface.png",
+    image: "/blood_bank.png",
     tech: [
       "PHP 7.4+ (Core PHP, PDO)",
       "MySQL 5.7+",

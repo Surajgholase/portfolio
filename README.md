@@ -32,12 +32,14 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 ### Installation
 
 1. Clone the repository:
+
 ```bash
 git clone <your-repo-url>
 cd portfolio-website
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 # or
@@ -45,6 +47,7 @@ pnpm install
 ```
 
 3. Run the development server:
+
 ```bash
 npm run dev
 # or
@@ -104,8 +107,8 @@ const projects = [
     image: "/project-image.png",
     tech: ["React", "Node.js", "MongoDB"],
     liveUrl: "https://your-project.com",
-    githubUrl: "https://github.com/yourusername/project"
-  }
+    githubUrl: "https://github.com/yourusername/project",
+  },
 ];
 ```
 
@@ -124,6 +127,7 @@ const skills = [
 ### Images
 
 Replace images in the `public/` folder:
+
 - `professional-headshot.png` - Your profile photo
 - Project screenshots
 - Other assets
@@ -139,6 +143,7 @@ Replace images in the `public/` folder:
 ### Other Platforms
 
 The app can be deployed to any platform that supports Next.js:
+
 - Netlify
 - Railway
 - Digital Ocean
@@ -147,10 +152,6 @@ The app can be deployed to any platform that supports Next.js:
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 

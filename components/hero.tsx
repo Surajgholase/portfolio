@@ -110,7 +110,7 @@ export function Hero() {
             {/* Image Card */}
             <div className="relative bg-card border border-border rounded-2xl p-6 shadow-xl">
               <img
-                src="/your-new-image-filename.jpg" // Change this line to your new image filename
+                src="/profile_photo.png"
                 alt="Professional headshot"
                 className="w-80 h-80 object-cover rounded-xl grayscale hover:grayscale-0 transition-all duration-500 hover:scale-105"
               />
